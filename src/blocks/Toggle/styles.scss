@@ -1,0 +1,65 @@
+@import "../../baseStyles/base.scss";
+
+.toggle{
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  height: 20px;
+  line-height: 20px;
+  input{
+    visibility: hidden;
+    position: absolute;
+    top:0px;
+    left:0px;
+    &[value="online"] + label:before{
+      background: linear-gradient(to left,  #e09233 0%, #c90adb 100%);
+      right:-3px;
+      box-shadow: -1px 1px 2px rgba(20,20,20,0.4);
+      content:"ON";
+      color:#fff;
+    }
+  }
+  label{
+    text-transform: uppercase;
+    position: relative;
+    line-height: 20px;
+    vertical-align: middle;
+    @include lato(700, 12px, $darkPurple);
+    white-space: nowrap;
+    height: 20px;
+    line-height: 20px;
+    &:after{
+      content:"";
+      display: inline-block;
+      width: 35px;
+      height: 17px;
+      border-radius:20px;
+      position:relative;
+      z-index: 1;
+      background:#9f9cd0;
+      vertical-align: middle;
+      margin-left: 10px;
+      cursor:pointer;
+    }
+    &:before{
+      content:"OFF";
+      display: inline-block;
+      width: 20px;
+      height: 20px;
+      border-radius:100%;
+      position:absolute;
+      z-index: 2;
+      background:#423f57;
+      right:15px;
+      top:50%;
+      margin-top:-11px;
+      transition:all 200ms ease-out;
+      cursor:pointer;
+      border:2px solid #9f9cd0;
+      box-shadow: 1px 1px 2px rgba(20,20,20,0.4);
+      font-size: 7px;
+      color:#9f9cd0;
+      text-align: center;
+    }
+  }
+}

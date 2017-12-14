@@ -1,0 +1,15 @@
+@import "../../baseStyles/base.scss";
+.cards-wrapper{
+  max-width:1200px;
+  margin:80px auto;
+  @include clearfix();
+  padding:20px 5px 5px;
+  background:#47445F;
+  border-radius:5px;
+  box-shadow: 1px 1px 2px rgba(20,20,20,0.5);
+  @media only screen and (max-width: $mobile){
+    width: 100%;
+    max-width: 400px;
+    margin:0 auto 30px;
+  }
+}

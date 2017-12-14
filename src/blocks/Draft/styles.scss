@@ -1,0 +1,66 @@
+@import "../../baseStyles/base.scss";
+
+.RichTextEditor__root___2QXK-{
+  background:$violet;
+  border:1px solid #2D2C3E;
+  select option{
+    height: auto;
+    padding:5px 10px;
+    @include CA(regular, 14px, $white);
+  }
+  .title{
+    margin:0px !important;
+  }
+  .public-DraftEditor-content{
+    @include CA(regular, 14px, $white);
+    line-height: 20px;
+    margin-bottom: 20px;
+    *[style="font-weight: bold;"]{
+      @include CA(bold, 14px, $white);
+    }
+    a{
+      color:#fff;
+    }
+  }
+  .EditorToolbar__root___3_Aqz{
+    border-bottom:1px solid #2D2C3E;
+  }
+  .Dropdown__root___3ALmx{
+    max-width: 200px;
+    select{
+      height: 30px;
+      line-height: 30px;
+      display: inline-block;
+      @include lato(700, 14px, #000);
+    }
+  }
+  button{
+    background:$violet;
+    border:1px solid #2D2C3E;
+    transition:all 200ms ease-out;
+    &:hover{
+      background:$lighterViolet;
+    }
+    &.IconButton__isActive___2Ey8p{
+      background:$purpleType;
+    }
+  }
+
+  .InputPopover__root___3Hpj9{
+    padding:0px;
+    button{
+      border:1px solid #999;
+    }
+  }
+
+  .public-DraftEditor-content{
+     @include CA(light, 14px, #fff);
+    h3{
+      @include CA(bold, 20px, $mediumPink);
+      margin-bottom: 10px;
+      text-align: right;
+      font-weight: bold;
+      margin:10px auto 20px;
+    }
+  }
+}

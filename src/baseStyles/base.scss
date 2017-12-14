@@ -1,0 +1,125 @@
+$violet:#423f57; //background
+$lighterViolet:#47445F;
+$darkPurple: #8581a9;
+$purpleType: #9f9cd0;
+$lightGrey: #CED1D1;
+
+
+@mixin lato($type, $size, $color){
+  font-size:$size;
+  color:$color;
+  font-family:'Lato'; 
+  font-weight: $type;
+}
+
+// C&A mixins
+
+  // Colors
+    $white: #fff;
+    $black: #2f2f2f;
+    $pink: #de007b;
+    $lightPink: #ffdfef;
+    $mediumPink: #ff51b2;
+    $tablet:900px;
+    $mobile:600px;
+
+  // Keyframe
+    @mixin animation($animate...) {
+        $max: length($animate);
+        $animations: '';
+
+        @for $i from 1 through $max {
+            $animations: #{$animations + nth($animate, $i)};
+
+            @if $i < $max {
+                $animations: #{$animations + ", "};
+            }
+        }
+        -webkit-animation: $animations;
+        -moz-animation:    $animations;
+        -o-animation:      $animations;
+        animation:         $animations;
+    }
+    @mixin keyframes($animationName) {
+        @-webkit-keyframes #{$animationName} {
+            @content;
+        }
+        @-moz-keyframes #{$animationName} {
+            @content;
+        }
+        @-o-keyframes #{$animationName} {
+            @content;
+        }
+        @keyframes #{$animationName} {
+            @content;
+        }
+    }
+    @include keyframes (progress-bar-stripes) {
+      from{
+        background-position: 40px 0;
+      }
+      to {
+        background-position: 0 0;
+      }
+    }
+
+  // Others
+    @mixin clearfix(){
+      &:before,
+      &:after {
+          content: " "; /* 1 */
+          display: table; /* 2 */
+      }
+
+      &:after {
+          clear: both;
+      }
+
+      *zoom: 1;
+    }
+
+    @mixin PE(){
+      content:"";
+      display:block;
+    }
+
+    .cf{
+      @include clearfix;
+    }
+
+  // Fonts mixins
+    @mixin CA($type, $size, $color){
+      font-size:$size;
+      color:$color;
+      @if $type == 'bold' {
+        font-family: 'ca-bold';
+      } @else if $type == 'light' {
+        font-family: 'ca-light';
+        } @else {
+        font-family:'ca-regular';
+        }
+    }
+
+    @mixin CAscript($type, $size, $color){
+      font-size:$size;
+      color:$color;
+      @if $type == 'bold' {
+        font-family: 'ca-script-bold';
+      } @else if $type == 'normal' {
+        font-family: 'ca-script-normal';
+        } @else {
+        font-family:'ca-script-normal';
+        }
+    }
+
+    @mixin arial($size, $color){
+      font-size:$size;
+      color:$color; 
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    @mixin benton($size, $color){
+      font-size:$size;
+      color:$color; 
+      font-family: 'benton-sans-Xcondensed-medium';
+    }

@@ -1,0 +1,1049 @@
+{
+  "months": 
+  [
+    {
+      "filled" : true,
+      "id" : "10-16",
+      "previous" : "09-16",
+      "next" : "11-16",
+      "fullDate" : "Octobre 2016",
+      "status" : "online",
+      "guest" : "Ithaa",
+      "interview" : 
+        {
+          "portrait": "10-16/portrait.png",
+          "date" : "10-16",
+          "name" : "Ithaa",
+          "intro":"<p><strong>Ce mois-ci, C&amp;A et Cosmopolitan ont looké Ithaa, créatrice du blog ithaa.fr.</strong></p><p>Un rendez-vous mode plein de bonne humeur pour une sélection shopping 100 % tendance.</p>",
+          "logo" : "10-16/Logo_Ithaa.jpg",
+          "url" : "http://www.ithaa.fr",
+          "popin" : "<p><strong>Cosmo :</strong> Un mot pour définir votre look C&amp;A ?</p><p class='reply'><strong>Ithaa :</strong> Chic et urbain avec de superbes intemporels. J’ai facilement retrouvé mon identité vestimentaire dans ce dressing qui propose des pièces trendy et féminines.</p><p><strong>Cosmo :</strong> Votre grain de folie mode ?</p><p class='reply'><strong>Ithaa :</strong> Des pièces fortes et originales comme la salopette en denim, le slim en similicuir ou le poncho imprimé ethnique. Avec eux, on ne voit que moi !</p><p><strong>Cosmo :</strong> Votre must-have de la rentrée dans la sélection C&amp;A x Cosmopolitan ?</p><p class='reply'><strong>Ithaa :</strong> Le bombers satiné, brodé et réversible. Je l’adore et ne le quitte plus !</p>"
+        },
+      "cards" : 
+        [
+          {
+            "status" : "offline",
+            "date" : "01/10",
+            "rank" : "98",
+            "white" : false,
+            "type" : "contest", 
+            "dotation" : "<p>2 bons d’achat de <strong>500 €</strong> à gagner. A vous de jouer !</p>",
+            "formID" : "24",
+            "image" : "10-16/contest.jpg"
+          },
+          {
+            "status" : "online",
+            "date" : "03/10",
+            "rank" : "01",
+            "white" : false,
+            "type" : "image", 
+            "image" : "10-16/cards/01_03_10.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Cosy Trendy</h3><p>Un manteau bouclé dans un joli moutarde chiné, une chemise imprimée vintage et une touche de denim… Hissée sur des sandales compensées, la blogueuse Ithaa a le chic pour s’approprier des pièces tendance et les porter de manière casual et féminine. On adhère !</p>",
+                "products" : ["Le manteau baby doll chiné et tout bouclé, <strong>59 €</strong>", "La chemise imprimée, <strong>15 €</strong>"], 
+                "image" : "10-16/pop-ups/03.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "04/10",
+            "rank" : "02",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/02_04_10.jpg", 
+            "popin" : 
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Foxy foxy</h3><p>En octobre, les chemises imprimées sont de sortie ! Pour twister une tenue, on mise sur un imprimé malicieux et esprit vintage comme celui porté par Ithaa : un renard aux traits naïfs.</p>",
+                "products" : ["La chemise imprimée, <strong>15 €</strong>"],
+                "image" : "10-16/pop-ups/04.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "05/10",
+            "rank" : "03",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/03_05_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Tendre saison</h3><p>Quand les températures chutent, on troque le manteau chiné baby doll pour un modèle ultra chaud, ultra doux. Le coloris rouille se marie parfaitement à l’imprimé de la chemise fluide.</p>",
+                "products" : ["Le manteau nounours, <strong>49 €</strong>"],
+                "image" : "10-16/pop-ups/05.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "06/10",
+            "rank" : "04",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/04_06_10.jpg", 
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Bordeaux chic</h3><p>Avec son zip, ce sac à bandoulière se déploie selon nos envies. Mention spéciale pour le bordeaux, une des nuances phares de notre dressing Automne-Hiver.</p>",
+                "products" : ["Le sac bordeaux, <strong>15 €</strong>"],
+                "image" : "10-16/pop-ups/06.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "10/10",
+            "rank" : "05",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/06_10_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Street rock</h3><p>La citadine rebelle, c’est bien sûr un état d’esprit. Comme Ithaa, on aime les filles audacieuses qui prennent des risques et combinent des pièces rock’n roll et féminines pour fouler le bitume avec style.</p>",
+                "products" : ["Le pantalon Glam rock, <strong>29€</strong>", "Le bombers reversible, <strong>39€</strong>", "Le pull tout doux, <strong>12€</strong>"],
+                "image" : "10-16/pop-ups/10.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "11/10",
+            "rank" : "06",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/07_11_10.jpg", 
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>2 en 1</h3><p>Le bombers réversible qui donne un look d’enfer et qui séduit avec sa matière satinée et son détail brodé japonisant dans le dos.</p>",
+                "products" : ["Le bombers réversible <strong>39 €</strong>"],
+                "image" : "10-16/pop-ups/11.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "12/10",
+            "rank" : "07",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/08_12_10.png", 
+            "copy" : "<h3 class='title'>Cœur de rockeuse</h3><p>Chaussée de boots motard, on calme le jeu : on opte pour un grand sac en matière feutrée, une jupe mini en velours côtelé et un bombers à l’imprimé sophistiqué. </p>",
+            "popin" :
+              {
+                "type" : "slider",
+                "products" : 
+                  [
+                    {
+                      "image" : "10-16/pop-ups/12/10_BOMBERS.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Bombers",
+                      "copy" : "Le bombers réversible", 
+                      "price" : "39€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/12/10_JUPE.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Jupe",
+                      "copy" : "La jupe en velours côtelé", 
+                      "price" : "19€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/12/10_SAC.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Sac",
+                      "copy" : "Le sac feutré", 
+                      "price" : "25€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/12/10_BOOTS.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Boots",
+                      "copy" : "Les boots motard", 
+                      "price" : "39€"
+                    }
+                  ] 
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "13/10",
+            "rank" : "07",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/09_13_10.jpg", 
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Must-have</h3><p>Le poncho est la pièce incontournable de la saison et c’est encore mieux quand il est imprimé ethnique et porté ceinturé.</p>",
+                "products" : ["Le poncho ethnique, <strong>19 €</strong>", "La ceinture, <strong>15 €</strong>"], 
+                "image" : "10-16/pop-ups/13.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "17/10",
+            "rank" : "08",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/11_17_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Légère comme une plume</h3><p>La doudoune féminine 90% duvet, 10% plumes et 100% mode est votre best friend de l'hiver. <br/>Confortable et chic, on la choisi dans des tons clairs et lumineux et on la combine à un pull tout doux et à une salopette en velours côtelé.</p>",
+                "products" : ["La doudoune légère 90% duvet 10% plumes, <strong>29€</strong>", "Le pull grosses mailles, <strong>15€</strong>", "La salopette en velours, <strong>15€</strong>"], 
+                "image" : "10-16/pop-ups/17.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "18/10",
+            "rank" : "09",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/12_18_10.jpg", 
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Nuances poudrées</h3><p>Pour affronter le froid, on se love dans des habits chauds aux douces tonalités pastel et poudrées. Notre coup de coeur pour Ithaa ? Une doudoune et un bonnet cocoon. </p>",
+                "products" : ["La doudoune légère 90% duvet 10% plumes, <strong>29€</strong>", "Bonnet rose poudrée, <strong>7€</strong>"], 
+                "image" : "10-16/pop-ups/18.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "19/10",
+            "rank" : "10",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/13_19_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Douche écossaise</h3><p>Comment donner du punch à sa doudoune ? En l’associant à un  sac à dos imprimé écossais. De la doudoune au sac en passant par la jupe on aime aussi les discrètes touches camel qui réchauffent la silhouette.</p>",
+                "products" : ["Le sac à dos, <strong>25€</strong>", "La doudoune légère 90% duvet 10% plumes, <strong>29€</strong>"],
+                "image" : "10-16/pop-ups/19.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "20/10",
+            "rank" : "11",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/14_20_10.png", 
+            "copy" : "<h3 class='title'>Notre coup de Coeur : <br/>le pull jacquard</h3><p>Hourra ! On peut enfin ressortir notre pull Jacquard tout doux, celui dans lequel on adore se blottir toute la saison ! On l’associe à des boots à talon esprit montagne et une mini-jupe, histoire de rester féminine en toutes circonstances.</p>",
+            "popin" :
+              {
+                "type" : "slider",
+                "products" : 
+                [
+                  {
+                    "image" : "10-16/pop-ups/20/10_Pull.png",
+                    "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                    "title" : "Pull",
+                    "copy" : "Le pull jacquard", 
+                    "price" : "19€"
+                  },
+                  {
+                    "image" : "10-16/pop-ups/20/10_Jupe.png",
+                    "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                    "title" : "Jupe",
+                    "copy" : "La jupe en velours côtelé", 
+                    "price" : "15€"
+                  },
+                  {
+                    "image" : "10-16/pop-ups/20/10_Bonnet.png",
+                    "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                    "title" : "Bonnet",
+                    "copy" : "Le bonnet rose poudré", 
+                    "price" : "7€"
+                  },
+                  {
+                    "image" : "10-16/pop-ups/20/10_Boots.png",
+                    "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                    "title" : "Boots",
+                    "copy" : "Les boots à talon", 
+                    "price" : "29€"
+                  }
+                ]
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "24/10",
+            "rank" : "12",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/16_24_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>70’s show</h3><p>Un jean flare qui allonge les jambes, un blouson qui souligne la taille… cet hiver les années 70 s’invitent dans notre dressing et valorisent notre silhouette !</p>",
+                "products" : ["Le blouson col moumoute, <strong>29€</strong>", "Le jean flare, <strong>19€</strong>", "Le bonnet tricot, <strong>12€</strong>"], 
+                "image" : "10-16/pop-ups/24.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "25/10",
+            "rank" : "13",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/17_25_10.jpg", 
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Boule de neige</h3><p>On adore le bonnet XXL avec son pompon et ses grosses mailles. Mais on garde le sens du détail en le fémininant avec une discrète paire de boucles d’oreilles. A ce prix là, on en change chaque jour de la semaine !</p>",
+                "products" : ["Le bonnet XXL, <strong>12€</strong>", "Les boucles d’oreilles (vendues par 3 paires),<strong> 5€</strong>"],
+                "image" : "10-16/pop-ups/25.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "26/10",
+            "rank" : "14",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/18_26_10.jpg", 
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Flashback</h3><p>Une allure décontractée mais bourrée de personnalité. Voilà comment résumer le look d’Ithaa qui rend hommage aux années 70. Manteau en fausse fourrure, pull jacquard et jean flare sont de la partie.</p>",
+                "products" : ["Le manteau fausse fourrure, <strong>49€</strong>","Le pull jacquard, <strong>19€</strong>","Le sac cabas à pompon, <strong>19€</strong>","Le jean flare, <strong>19€</strong>"], 
+                "image" : "10-16/pop-ups/26.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "27/10",
+            "rank" : "15",
+            "white" : false,
+            "type" : "image",
+            "image" : "10-16/cards/19_27_10.png", 
+            "copy" : "<h3 class='title'>Street culture</h3><p>Notre alternative fashion pour arpenter la ville sans craindre un coup de froid ? Un look classique, intemporel et sans fausses notes. Pour cela, on mise sur des basiques qui font toujours de l’effet, la parka marine et le jean gris en velours en tête.</p>",
+            "popin" :
+              {
+                "type" : "slider",
+                "products" : 
+                  [
+                    {
+                      "image" : "10-16/pop-ups/27/10_Manteau.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Parka",
+                      "copy" : "La parka marine", 
+                      "price" : "79€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/27/10_Pantalon.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Jean",
+                      "copy" : "Le jean en velours côtelé", 
+                      "price" : "25€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/27/10_Pull.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Pull",
+                      "copy" : "Le pull pink lady", 
+                      "price" : "12€"
+                    },
+                    {
+                      "image" : "10-16/pop-ups/27/10_Sac.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Sac",
+                      "copy" : "Le sac cabas à pompon", 
+                      "price" : "19€"
+                    }
+                  ]
+              }
+          }
+        ]
+    },
+    {
+      "filled" : true,
+      "id" : "11-16",
+      "previous" : "10-16",
+      "next" : "12-16",
+      "fullDate" : "Novembre 2016",
+      "status" : "online",
+      "guest" : "Fadela",
+      "interview" : 
+        {
+          "portrait": "11-16/portrait.png",
+          "date" : "11-16",
+          "name" : "Fadela",
+          "intro":"<p><strong>Ce mois-ci, C&amp;A et Cosmopolitan ont looké Fadela, créatrice du blog fadelamecheri.com.</strong></p><p>Elle nous donne ses nouvelles envies mode pour cet automne. Style garanti !</p>",
+          "logo" : "11-16/logo_fadela.gif",
+          "url" : "http://www.fadelamecheri.com",
+          "popin" : "<p><strong>Cosmo :</strong> Un mot pour définir votre look C&amp;A ?</p><p class='reply'><strong>Fadela :</strong> Elégant ! Un look de working girl classiquechic, mais avec une touche originale. Ici, c’est la veste mordorée qui est vraiment la pièce forte de ce look. Elle illumine le reste.<p><strong>Cosmo :</strong> Votre grain de folie mode ?</p><p class='reply'><strong>Fadela :</strong> Mélanger les genres. Casser une tenue chic avec des baskets et un bombers et à l’inverse, une tenue street avec des escarpins pailletés et une pochette.<p><strong>Cosmo :</strong> Votre must-have de l’automne dans la sélection C&amp;A x Cosmopolitan?</p><p class='reply'><strong>Fadela :</strong> Ce manteau long bleu marine. Il se porte avec tout et il dessine une silhouette infinie.</p><img src='/images/11-16/pop-ups/POPIN_interview.jpg' alt=''/>"
+        },
+      "cards" : 
+        [
+          {
+            "status" : "online",
+            "date" : "31/10",
+            "rank" : "98",
+            "white" : false,
+            "type" : "contest", 
+            "dotation" : "<p>2 bons d’achat de <strong>500 €</strong> à gagner. A vous de jouer !</p>",
+            "formID" : "24",
+            "image" : "11-16/contest.jpg"
+          },
+          {
+            "status" : "online",
+            "date" : "01/11",
+            "rank" : "02",
+            "white" : false,
+            "type" : "image", 
+            "image" : "11-16/cards/0111.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Mon atout</h3><p>Un mini-sac qui nous suit partout ! On assortit le coloris à notre tenue pour avoir tout juste. </p>",
+                "products" : [ "Le sac noir bandoulière, <strong>15 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_0111.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "31/10",
+            "rank" : "01",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0311.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>La touche rock</h3><p>Fadela nous présente une silhouette à adopter le jour comme le soir avec des pièces fortes et sophistiquées comme le manteau long marine ou la veste mordorée. Rock et féminine, c’est possible !</p>",
+                "products" : ["Le manteau long marine, indémodable, <strong>129 €</strong>","La veste en jacquard mordorée, <strong>59 €</strong>","Le jean noir orné de patchs sequins, <strong>29 €</strong>","Le sac noir bandoulière, <strong>15 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_0411.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "02/11",
+            "rank" : "02",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0211.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Cousue de fil d’or</h3><p>Cet imprimé jacquard mordoré habille Fadela de la tête aux pieds ! Pour un total look réussi comme ici, on calme le jeu avec une pièce plus sage avec un petit pull ultra sobre. </p>",
+                "products" : ["La veste en jacquard mordorée, <strong>59 €</strong>", "Le pantalon en jacquard mordoré, <strong>39 €</strong>"],
+                "image" : "11-16/pop-ups/POPIN_0211.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "03/11",
+            "rank" : "03",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0411.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Bijou de tête </h3><p>Pour accessoiriser une tenue tout en se protégeant du froid, cette saison on mise tout sur le bandeau de cheveux bijoux en maille tricotée. Chic et chaud à la fois ! </p>",
+                "products" : ["Le bandeau de cheveux bijoux, <strong>12 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_0311.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "07/11",
+            "rank" : "04",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0711.png",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Street chic</h3><p>Fashion et urbain, telle est la devise de Fadela, aussi à l’aise en baskets qu’en escarpins ! Son style, le mélange des genres comme ici où elle mixe robe en lurex avec des baskets et des collants plumetis. </p>",
+                "products" : ["Le perfecto imitation cuir, <strong>39 €</strong>","La robe côtelée, <strong>25 €</strong>","La pochette crocro, <strong>15 €</strong>","Les collants plumetis, <strong>7 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_0711.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "08/11",
+            "rank" : "05",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0811.png",
+            "popin" :
+              {
+              "type" : "single", 
+              "copy" : "<h3 class='title'>Cendrillon 2.0</h3><p>Plutôt à plat ou à talon ? Fana de paillettes ou amoureuse de strass ? Vous avez le choix pour scintiller à chaque pas entre les ballerines ornées de bijoux ou les escarpins pailletés à talons hauts.  </p>",
+              "products" : ["Les escarpins, <strong>19 €</strong>", "Les ballerines, <strong>15 €</strong>"],
+              "image" : "11-16/pop-ups/POPIN_0811.jpg",
+              "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+            }
+          },
+          {
+            "status" : "online",
+            "date" : "09/11",
+            "rank" : "06",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/0911.png",
+            "copy" : "<h3 class='title'>Bientôt Noël !</h3><p>Quand on était petite, on adorait le calendrier de l’avent. Maintenant, pour patienter en attendant le 25 décembre on a le sweat de Noël ! On l’associe à une jupe longue ultra classe, une pochette imitation croco et un perfecto fourré.</p>",
+            "popin" :
+              {
+                "type" : "slider",
+                "products" :
+                  [
+                    {
+                      "image" : "11-16/pop-ups/POPIN_perfecto.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Perfecto",
+                      "copy" : "Le perfecto tout chaud", 
+                      "price" : "59€"
+                    },
+                    {
+                      "image" : "11-16/pop-ups/POPIN_pull.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Sweat-shirt",
+                      "copy" : "Le sweat-shirt Noël", 
+                      "price" : "12€"
+                    },
+                    {
+                      "image" : "11-16/pop-ups/POPIN_jupe.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Jupe",
+                      "copy" : "La jupe plissée", 
+                      "price" : "25€"
+                    },
+                    {
+                      "image" : "11-16/pop-ups/POPIN_pochette.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Pochette",
+                      "copy" : "La pochette croco", 
+                      "price" : "15€"
+                    }
+                  ] 
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "10/11",
+            "rank" : "07",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/1011.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Le combo gagnant</h3><p>Rock mais sophistiquée ! On combine un perfecto avec une pochette imitation croco pour un look ultra pointu.</p>",
+                "products" : ["La pochette croco, <strong>15 €</strong>", "Le perfecto rockabilly, <strong>39 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_1011.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "14/11",
+            "rank" : "07",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/1411.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Working-girl chic</h3><p>Chicissime, Fadela porte une combi-pantalon noire au décolleté dentelle, associée à une veste en velours, qui convient aussi bien à une journée marathon au bureau qu’à une soirée habillée.</p>",
+                "products" : ["La veste en velours, <strong>29 €</strong>", "La combi-pantalon noire haut dentelle, <strong>29 €</strong>", "Le mini sac en velours, <strong>19 €</strong>", "La ceinture large, <strong>9 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_1411.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "15/11",
+            "rank" : "08",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/1511.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Détail sophistiqué</h3><p>Accessoirisez votre tenue pour mieux la valoriser ! On craque pour un petit sac en velours noir orné de bijoux et pour sa chaîne qui permet de le glisser à l’épaule. Aussi chic que discret.</p>",
+                "products" :["Le mini sac en velours, <strong>19€</strong>"],
+                "image" : "11-16/pop-ups/POPIN_1511.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "16/11",
+            "rank" : "09",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/1611.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Dentelle ajourée</h3><p>L’atout charme de cette combi-pantalon? Son haut, avec sa dentelle fleurie et le bord du décolleté, aérien et délicat. Tout en finesse. </p>",
+                "products" : ["La combi-pantalon noire haut dentelle, <strong>29€</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_1611.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "17/11",
+            "rank" : "10",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/1711.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Seconde peau</h3><p>On a froid mais on ne renonce pas au style !  Pour un look de working-girl qui court toute la journée, on craque pour cette doudoune bicolore, qui illumine la silhouette et réchauffe l’ambiance. </p>",
+                "products" : ["La doudoune doublée, <strong>59€</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_1711.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "21/11",
+            "rank" : "11",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/2111.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Velours chic</h3><p>Cette saison, le velours fait son grand retour ! Pour succomber à la tendance, on mixe pantalon large en velours, escarpins et pull pailleté. Notre devise ? Casual mais élégant.</p>",
+                "products" : ["Le pull brillant, <strong>12 €</strong>","Le pantalon en velours, <strong>39 €</strong>","Le sac bordeaux bandoulière, <strong>15 €</strong>","Les escarpins à talons hauts, <strong>19 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_2111.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "22/11",
+            "rank" : "12",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/2211.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Tout ce qui brille </h3><p>Fadela a le sens du détail : elle cumule les bracelets XXL dorés ! Pour les accompagner ? Un mini sac bordeaux dont le fermoir fait écho aux bijoux. Étincelant mais pas bling-bling !</p>",
+                "products" : ["Le sac bordeaux bandoulière, <strong>15 €</strong>", "La montre gold, <strong>19 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_2211.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "23/11",
+            "rank" : "14",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/2311.jpg",
+            "popin" :
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>En transparence</h3><p>Pour fouler le bitume avec style, faites comme Fadela : un pantalon en velours noir sobre et chic se marie joliment à un haut en dentelle féminin et raffiné.</p>",
+                "products" : ["Le pantalon en velours noir, <strong>39 €</strong>", "Le top en dentelle, <strong>19 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_2311.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "online",
+            "date" : "24/11",
+            "rank" : "15",
+            "white" : false,
+            "type" : "image",
+            "image" : "11-16/cards/2411.jpg",
+            "popin" :
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Glaglagla !</h3><p>Parée contre le froid ! Ce cache-oreilles noir au détail pailleté ? C’est le petit clin d’œil girly qui fait toute la différence.</p>",
+                "products" : ["Le cache-oreilles, <strong>9 €</strong>"], 
+                "image" : "11-16/pop-ups/POPIN_2411.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          }
+        ]
+    },
+    {
+      "filled" : true,
+      "id" : "12-16",
+      "previous" : "11-16",
+      "next" : "01-17",
+      "fullDate" : "Décembre 2016",
+      "status" : "offline",
+      "guest" : "Margot",
+      "interview" :
+        {
+          "portrait": "12-16/portrait.png",
+          "date" : "12-16",
+          "name" : "Margot",
+          "intro" : "<p><strong>Ce mois-ci, C&A et Cosmopolitan ont looké Margot, créatrice du blog <a href='youmakefashion.fr' target='_blank'>youmakefashion.fr</a>.</strong></p><p>Entre ces amoureux de la mode, une sélection shopping chic et tendance est née. La voici.</p>",
+          "logo" : "12-16/logo.png",
+          "url" : "http://www.youmakefashion.fr",
+          "popin" : "<p><strong>Cosmo :</strong> Un mot pour définir votre look C&A ?</p><p class='reply'><strong>Margot :</strong> J’aime mélanger les styles et c’est exactement ce que j’ai fait avec cette sélection : un mix de style street avec le bombers et le sac à dos, ou une allure classe avec la robe fleurie et les collants résille.</p><p><strong>Cosmo :</strong> Votre grain de folie mode ?</p><p class='reply'><strong>Margot :</strong> J’aime être chic mais avec un esprit casual. Voilà pourquoi je choisis toujours une pièce douce et chaude comme un manteau moelleux ou une étole soyeuse. C’est ma recette du look idéal !</p><p><strong>Cosmo :</strong> Votre must-have pour la rentrée dans la sélection C&A x Cosmopolitan ?</p><p class='reply'><strong>Margot :</strong> Sans aucune hésitation : le bombers. Qu’il soit noir, doré, en velours ou en satin, je les collectionne dans toutes les couleurs et toutes les matières.</p><img src='/images/12-16/pop-ups/interview.jpg' alt=''/>"
+        },
+      "cards" :
+        [
+          {
+            "status" : "offline",
+            "date" : "01/12",
+            "rank" : "98",
+            "white" : false,
+            "type" : "contest", 
+            "dotation" : "<p>2 bons d’achat de <strong>500 €</strong> à gagner. A vous de jouer !</p>",
+            "formID" : "24",
+            "image" : "12-16/contest.jpg"
+          },
+          {
+            "status" : "offline",
+            "date" : "28/11",
+            "rank" : "01",
+            "white" : true,
+            "type" : "image",
+            "image" : "12-16/cards/28-11.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Street glam</h3><p>Margot a trouvé le bon mix entre une allure urbaine et un style plus sophistiqué en combinant le bombers bronze à un top très chic à col perlé et une jupe crayon en jean. Et nous, on applaudit !</p>",
+                "products" : ["Le bombers bronze, <strong>29 €</strong>","Le top chic, <strong>19 €</strong>","La jupe crayon casual, <strong>15 €</strong>","Le sac à dos avec des détails graphiques, <strong>25 €</strong>"], 
+                "image" : "12-16/pop-ups/28-11.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "29/11",
+            "rank" : "02",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/29-11.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Tendance Backpack </h3><p>On opte pour un sac à dos graphique ! Original et pratique on le porte avec une jupe et des talons pour un côté décalé. </p>",
+                "products" : ["Le sac à dos avec des détails graphiques, <strong>25 €</strong>","Le bombers bronze, <strong>29 €</strong>","La jupe crayon casual, <strong>15 €</strong>"], 
+                "image" : "12-16/pop-ups/29-11.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "30/11",
+            "rank" : "03",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/30-11.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Sports wear VS Pretty chic</h3><p>Pour un style urbain affiché, faites comme Margot : troquez le top noir ultra chic contre un sweat à capuche chiné. En bref, amusez-vous ! </p>",
+                "products" : ["Le sweat à capuche, <strong>15 €</strong>","Le bombers bronze, <strong>29 €</strong>","La jupe crayon casual, <strong>15 €</strong>"], 
+                "image" : "12-16/pop-ups/30-11.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "01/12",
+            "rank" : "04",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/01-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Petite bombe</h3><p>Cet hiver, le bombers est l’indispensable du dressing. Et en bronze, couleur tendance de la saison, il est encore plus stylé ! On n’hésite pas à l’accessoiriser à l’aide de bijoux très féminins comme ce collier qui fait écho au col perlé du top.</p>",
+                "products" : ["Le bombers bronze, <strong>29 €</strong>","Le top chic, <strong>19 €</strong>","Le collier, <strong>7 €</strong>"], 
+                "image" : "12-16/pop-ups/01-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "05/12",
+            "rank" : "05",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/05-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Hiver rétro</h3><p>Glamour et envoûtant même quand les températures dégringolent… Voilà le parti pris fashion de Margot qui se laisse séduire par des pièces intemporelles très élégantes comme un manteau chiné noir et blanc stylé, et un it bag bordeaux.</p>",
+                "products" : ["Le manteau noir et blanc, <strong>79 €</strong>", "Le sac bordeaux, <strong>29 €</strong>"], 
+                "image" : "12-16/pop-ups/05-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "06/12",
+            "rank" : "06",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/06-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Beau le manteau !</h3><p>La pièce maîtresse du look de Margot ? Son manteau chiné noir et blanc, raffiné avec son grand col et souligné par sa fine ceinture. Un vrai coup de cœur.</p>",
+                "products" : ["Le manteau noir et blanc, <strong>79 €</strong>", "La ceinture fine, <strong>9 €</strong>"], 
+                "image" : "12-16/pop-ups/06-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "07/12",
+            "rank" : "07",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/07-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>It-bag</h3><p>Avec ce sac de ville, chic et tendance, on va faire des jalouses ! On raffole de ses lignes épurées, de ses sangles élégantes et minimalistes mais aussi de son format qui nous permet d’emporter plein de choses avec nous. Sa couleur Bordeaux, assortie à notre vernis joue les contrastes avec le manteau.</p>",
+                "products" : ["Le manteau noir et blanc, <strong>79 €</strong>", "Le sac bordeaux, <strong>29 €</strong>"], 
+                "image" : "12-16/pop-ups/07-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "08/12",
+            "rank" : "08",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/08-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Version mini</h3><p>Ultra féminine, on ose la mini-robe fendue. On adore son côté bi matière et bicolore : le haut en maille et le bas plissé fluide. Et pour apporter un petit côté sportwear décontract’ à la tenue, on troque les talons hauts pour des baskets.</p>",
+                "products" : ["La robe pull plissée, <strong>29 €</strong>", "Le manteau noir et blanc, <strong>79 €</strong>"], 
+                "image" : "12-16/pop-ups/08-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "12/12",
+            "rank" : "09",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/12-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Bohème chic</h3><p>Un blouson clouté, des imprimés fleuris, des bottines à talon carré… notre blogueuse mode réussit le pari d’un look aussi bohème que rock pour l’hiver. La pièce forte de cette tenue ? La robe longue imprimée, l’un des must-have de la saison.</p>",
+                "products" : ["Le blouson de rock star clouté en similicuir, <strong>39 €</strong>","La robe longue à imprimé fleuri, <strong>29 €</strong>","Le sac minimaliste bicolore, <strong>12 €</strong>"], 
+                "image" : "12-16/pop-ups/12-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "13/12",
+            "rank" : "10",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/13-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Joli tandem</h3><p>Le duo qui matche ? Le blouson en similicuir et la pochette bicolore apporte un style arty rock à toutes vos tenues.</p>",
+                "products" : ["Le blouson de rock star clouté en similicuir, <strong>39 €</strong>", "Le sac minimaliste bicolore, <strong>12 €</strong>"], 
+                "image" : "12-16/pop-ups/13-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "14/12",
+            "rank" : "11",
+            "white" : false,
+            "type" : "image",
+            "image" : "12-16/cards/14-12.png",
+            "copy" : "<h3 class='title'>Dressing de saison</h3><p>Pour un look automne-hiver réussi, on mise sur des basiques indémodables comme le perfecto. Et pour être au top : on l’accompagne de bordeaux et de kaki, couleurs tendance de cette saison ! </p>",
+            "popin" : 
+              {
+                "type" : "slider",
+                "products" : 
+                  [
+                    {
+                      "image" : "12-16/pop-ups/Blouson.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Perfecto",
+                      "copy" : "Le perfecto", 
+                      "price" : "39€"
+                    },
+                    {
+                      "image" : "12-16/pop-ups/Pull.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Sweat",
+                      "copy" : "Le sweat bordeaux", 
+                      "price" : "12€"
+                    },
+                    {
+                      "image" : "12-16/pop-ups/Pantalon.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Pantalon",
+                      "copy" : "Le pantalon kaki", 
+                      "price" : "25€"
+                    },
+                    {
+                      "image" : "12-16/pop-ups/Shoes.png",
+                      "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?",
+                      "title" : "Boots",
+                      "copy" : "Les boots seventies", 
+                      "price" : "29€"
+                    }
+                  ] 
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "15/12",
+            "rank" : "12",
+            "white" : false,
+            "type" : "image", 
+            "image" : "12-16/cards/15-12.jpg",
+            "popin" : 
+              {
+                "type" : "single", 
+                "copy" : "<h3 class='title'>Oversize</h3><p>On rêve de s’emmitoufler dans cette écharpe XXL à l’imprimé cachemire pour se protéger du froid. Délicieusement douce.</p>",
+                "products" : ["L’écharpe oversize, <strong>19 €</strong>"], 
+                "image" : "12-16/pop-ups/15-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "19/12",
+            "rank" : "13",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/19-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Preppy à Paris</h3><p>Simplicité et élégance : voilà les maîtres mots de cette silhouette chic et citadine où le noir et le blanc se font échos. Un jean taille basse aux détails brodés et pour mettre en valeur le sweat panthère, on fait ressortir le col de la chemise blanche… Margot a tout bon ! </p>",
+                "products" : ["Le sweat panthère, <strong>15 €</strong>","La chemise blanche, <strong>19 €</strong>","Le jean brodé, <strong>29 €</strong>","Le sac à dos argenté, <strong>25 €</strong>"], 
+                "image" : "12-16/pop-ups/19-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "20/12",
+            "rank" : "14",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/20-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>L’astuce de la styliste</h3><p>Pour accompagner un jean bien ajusté à la taille, on vous préconise deux ceintures fine. Et pour souligner encore mieux la silhouette, on les attache ensemble pour faire 2 tours !</p>",
+                "products" : ["Le sweat panthère, <strong>15 €</strong>","Le jean brodé, <strong>29 €</strong>", "Les ceintures dorée, <strong>5 €</strong> et argentée, <strong>7 €</strong>"], 
+                "image" : "12-16/pop-ups/20-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "21/12",
+            "rank" : "15",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/21-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Futuristique</h3><p>Bonne nouvelle, les sacs à dos ne sont plus réservés aux ados ! On assume encore plus ce it-bag d’un nouveau genre en optant pour un coloris argenté ultra-moderne. </p>",
+                "products" : ["Le sac à dos argenté, <strong>25 €</strong>","Le jean brodé, <strong>29 €</strong>","Les ceintures dorée, <strong>5 €</strong> et argentée, <strong>7 €</strong>"], 
+                "image" : "12-16/pop-ups/21-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+              }
+          },
+          {
+            "status" : "offline",
+            "date" : "22/12",
+            "rank" : "16",
+            "white" : true,
+            "type" : "image", 
+            "image" : "12-16/cards/22-12.jpg",
+            "popin" : 
+              {
+                "type" : "total", 
+                "copy" : "<h3 class='title'>Sweat + robe noire = combo gagnant !</h3><p>Grrrr… le sweat panthère noir et blanc : il est parfait pour twister la fameuse petite robe noire qu’on adore mais qu’on trouve parfois un peu trop habillée. Associée à des boots et un sac de working-girl, elle devient une jupe fluide idéale pour aller travailler.</p>",
+                "products" : ["Le sweat panthère, <strong>15 €</strong>","La robe fluide, <strong>35 €</strong>","Le sac cabas, <strong>29 €</strong>"], 
+                "image" : "12-16/pop-ups/22-12.jpg",
+                "url" : "http://ww50.smartadserver.com/call/cliccommand/16856043/[timestamp]?"
+             } 
+          }
+        ]
+    },
+    {
+      "filled" : false,
+      "id" : "01-17",
+      "previous" : "12-16",
+      "next" : "02-17",
+      "fullDate" : "Janvier 2017",
+      "status" : "offline",
+      "guest" : "",
+      "interview" : 
+        {
+          "portrait": "",
+          "date" : "01-17",
+          "name" : "",
+          "intro": "",
+          "logo" : "",
+          "url" : "",
+          "popin" : ""
+        },
+      "cards" : []
+    },
+    {
+      "filled" : false,
+      "id" : "02-17",
+      "previous" : "01-17",
+      "next" : "03-17",
+      "fullDate" : "Février 2017",
+      "status" : "offline",
+      "guest" : "",
+      "interview" : 
+        {
+          "portrait": "",
+          "date" : "02-17",
+          "name" : "",
+          "intro": "",
+          "logo" : "",
+          "url" : "",
+          "popin" : ""
+        },
+      "cards" : []
+    }
+  ]
+}

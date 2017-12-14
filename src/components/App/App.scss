@@ -1,0 +1,237 @@
+@import "../../baseStyles/base.scss";
+
+@import "./fonts/benton-sans-condensed-bold/_benton-sans-condensed-bold.scss";
+@import "./fonts/benton-sans-Xcondensed-medium/_benton-sans-Xcondensed-medium.scss";
+@import "./fonts/proxima-nova-regular/_proxima-nova-regular.scss";
+@import "./fonts/ca-bold/_ca-bold.scss";
+@import "./fonts/ca-light/_ca-light.scss";
+@import "./fonts/ca-regular/_ca-regular.scss";
+@import "./fonts/ca-script-bold/_ca-script-bold.scss";
+@import "./fonts/ca-script-normal/_ca-script-normal.scss";
+
+#mainContent{
+  position: relative;
+  padding: 120px 20px 40px;
+  z-index: 1;
+}
+
+.text-center{
+  text-align: center;
+}
+
+
+.title{
+  margin:60px 0px;
+  letter-spacing: 1px;
+  line-height: 36px;
+  vertical-align: middle;
+  @include lato(200, 36px, $purpleType);
+  &.less-margins{
+    margin:20px auto 40px;
+  }
+  .toggle{
+    position: relative;
+    top:-5px;
+    margin-left: 20px;
+  }
+}
+.section-title{
+  margin:0px 0px 30px;
+  letter-spacing: 1px;
+  line-height: 2;
+  vertical-align: middle;
+  @include lato(200, 20px, $purpleType);
+  text-align: center;
+  position: relative;
+  &:after{
+    content:"";
+    display: block;
+    width: 100%;
+    left:0px;
+    bottom:-3px;
+    height: 1px;
+    background: linear-gradient(to left,  #60dbcc 0%, #37a1ca 100%);
+    border-radius: 3px;
+  }
+}
+
+.btn{
+  cursor:pointer;
+  display: inline-block;
+  border:2px solid transparent;
+  border-image-slice: 1;
+  padding:15px 15px;
+  position: relative;
+  background:$violet;
+  background-clip: padding-box;
+  border-radius: 6px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition:all 300ms ease-out;
+  @include lato(400, 14px, #fff);
+  &:hover{
+    background:$lighterViolet;
+    background-clip: padding-box;
+  }
+  &:after {
+    position: absolute;
+    top: -2px; bottom: -2px;
+    left: -2px; right: -2px;
+    background: linear-gradient(to left,  #e09233 0%, #c90adb 100%);
+    content: '';
+    z-index: -1;
+    border-radius: 6px;
+  }
+  &.blue{
+    border:1px solid #37a1ca;
+    border-radius:2px;
+    padding:10px 15px 10px 30px;
+    &:after{
+      display: none;
+    }
+    &:before{
+      content:"";
+      display: block;
+      width: 12px;
+      height: 12px;
+      border-radius:100%;
+      margin-right: 10px;
+      background: linear-gradient(to left,  #60dbcc 0%, #37a1ca 100%);
+      position: absolute;
+      top:50%;
+      margin-top:-6px;
+      left:10px;
+      transition:all 200ms ease-out;
+    }
+    &:hover{
+      border:1px solid #60dbcc;
+      &:before{
+        width: 15px;
+        height: 15px;
+        margin-top:-7.5px;
+        left:8.5px;
+      }
+    }
+    &.small{
+      &:before{
+        display: none;
+      }
+    }
+  }
+  &.small{
+    padding:8px 8px;
+    font-size: 12px;
+  }
+}
+
+.backLink{
+  display: block;
+  width: 130px;
+  margin:0 auto;
+  text-align: center;
+  height: 60px;
+  line-height: 60px;
+  text-transform: uppercase;
+  text-decoration: none;
+  transition:all 300ms ease-out;
+  position: relative;
+  @include lato(400, 14px, $darkPurple);
+  &:hover{
+    color:#fff;
+  }
+  &:after{
+    content:"";
+    display: block;
+    margin:0 auto;
+    position: absolute;
+    left:0;
+    right:0;
+    bottom:17px;
+    height: 3px;
+    background: #e09233;
+    background: -moz-linear-gradient(left,  #e09233 0%, #c90adb 100%);
+    background: -webkit-linear-gradient(left,  #e09233 0%,#c90adb 100%);
+    background: linear-gradient(to right,  #e09233 0%,#c90adb 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e09233', endColorstr='#c90adb',GradientType=1 );
+    width: 0px;
+    transition:all 300ms cubic-bezier(.7,-0.49,.41,1.41);
+    border-radius:3px;
+  }
+  &:hover:after{
+    width: 100%;
+  }
+}
+
+.form{
+  fieldset{
+    display: block;
+    margin-bottom: 20px;
+    label, input[type="text"], input[type="file"], input[type="number"], textarea, select{
+      display: block;
+      width: 100%;
+    }
+    label{
+      @include lato(700, 12px, $lightGrey);
+      text-transform: uppercase;
+      margin-bottom: 10px;
+    }
+    input[type="text"], input[type="number"], textarea, select{
+      line-height: 35px;
+      background:$violet;
+      border:1px solid #2D2C3E;
+      padding:0 10px;
+      transition:all 200ms ease-out;
+      border-radius:0px;
+      @include lato(400, 16px, $lightGrey);
+      &:focus{
+        background-color: $lighterViolet;
+        outline:0px;
+        border:1px solid $lightGrey;
+        border-radius:3px;
+      }
+      &[type='hidden']{
+        display:none;
+      }
+    }
+    input[type="file"]{
+      @include lato(400, 13px, $lightGrey);
+    }
+    select{
+      height: 35px;
+      border-radius: 0px;
+      option{
+        height: 35px;
+        line-height: 35px;
+      }
+    }
+    textarea{
+      resize:veritcal;
+      min-height: 120px;
+      line-height: 16px;
+      padding:10px;
+    }
+    .check{
+      line-height: 30px;
+      position: relative;
+      display: block;
+      text-align: right;
+      label{
+        display: inline-block;
+        padding-right: 5px;
+        vertical-align: middle;
+        width: auto;
+        margin-bottom: 0px;
+      }
+      input{
+        display: inline-block;
+        vertical-align: middle;
+      }
+    }
+  }
+}
+
+@import "./_flexslider.scss";
+@import "./_magnific-popup.scss";
+@import "./_popUps.scss";
+@import "./_cards.scss";
+

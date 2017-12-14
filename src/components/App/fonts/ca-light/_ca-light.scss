@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'ca-light';
+  src: url('./fonts/ca-light/ca-light.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/ca-light/ca-light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/ca-light/ca-light.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./fonts/ca-light/ca-light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/ca-light/ca-light.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

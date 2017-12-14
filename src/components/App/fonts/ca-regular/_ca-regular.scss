@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'ca-regular';
+  src: url('./fonts/ca-regular/ca-regular.eot'); /* IE9 Compat Modes */
+  src: url('./fonts/ca-regular/ca-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/ca-regular/ca-regular.woff') format('woff'), /* Pretty Modern Browsers */
+       url('./fonts/ca-regular/ca-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/ca-regular/ca-regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+}

@@ -1,0 +1,39 @@
+@import "../../baseStyles/base.scss";
+.monthForm{
+  position: relative;
+  max-width:800px;
+  margin:80px auto;
+  @include clearfix();
+  padding:20px 0px;
+  background:#47445F;
+  border-radius:5px;
+  box-shadow: 1px 1px 2px rgba(20,20,20,0.5);
+  .column{
+    float: left;
+    &.preview{
+      width: 43%;
+      min-width: 344px;
+      .card{
+        width: 100%;
+        float: none;
+        position: relative;
+        top:-30px;
+        margin-left:-10px;
+        box-shadow: 1px 1px 2px rgba(20,20,20,0.5);
+        padding:0px;
+      }
+      &.fixed{
+        .card{
+          top:90px;
+          position: fixed;
+          width: 344px;
+        }
+      }
+    }
+    &.controls{
+      width: 57%;
+      padding-left: 20px;
+      padding-right: 15px;
+    }
+  }
+}

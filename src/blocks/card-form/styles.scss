@@ -1,0 +1,162 @@
+@import "../../baseStyles/base.scss";
+.cardForm{
+  position: relative;
+  max-width:800px;
+  margin:80px auto;
+  @include clearfix();
+  padding:20px 0px;
+  background:#47445F;
+  border-radius:5px;
+  box-shadow: 1px 1px 2px rgba(20,20,20,0.5);
+  .column{
+    float: left;
+    &.preview{
+      width: 43%;
+      min-width: 344px;
+      .card{
+        width: 100%;
+        float: none;
+        position: relative;
+        top:-30px;
+        margin-left:-10px;
+        box-shadow: 1px 1px 2px rgba(20,20,20,0.5);
+        padding:0px;
+      }
+      &.fixed{
+        .card{
+          top:90px;
+          position: fixed;
+          width: 344px;
+        }
+      }
+    }
+    &.controls{
+      width: 57%;
+      padding-left: 20px;
+      padding-right: 15px;
+    }
+  }
+}
+
+p.warning{
+  text-align: center;
+  @include lato(300, 12px, $darkPurple);
+  margin-bottom: 20px;
+  padding: 5px;
+  line-height: 1.3;
+}
+
+
+.product-item{
+  position: relative;
+  margin-bottom: 10px;
+  button, p, figure{
+    display:inline-block;
+    vertical-align: middle;
+    line-height: 30px;
+  }
+  button{
+    display: block;
+    height: 20px;
+    width: 20px;
+    z-index: 2;
+    position: absolute;
+    left:0px;
+    margin-left:-10px;
+    margin-top:-10px;
+    top:50%;
+    border-radius:100%;
+    background: linear-gradient(to left,  #e09233 0%, #c90adb 100%);
+    box-shadow: 1px 1px 2px rgba(20,20,20,0.8);
+    text-align: center;
+    line-height: 19px;
+    @include lato(700, 18px, #fff);
+    border:0px;
+    padding:0px;
+    cursor: pointer;
+    transition:all 200ms ease-out;
+    &:hover{
+      left:-2px;
+    }
+    &:focus{
+      outline:0px;
+    }
+  }
+  p{
+    padding-left: 20px;
+    @include CA(light, 15px, #fff);
+    line-height: 25px;
+    strong{
+      font-family: 'ca-bold';
+      color:$mediumPink;
+    }
+  }
+  &.slide{
+    border-bottom:1px solid #5B587E;
+    padding-right: 90px;
+    height: 80px;
+    line-height: 75px;
+    figure{
+      width: 75px;
+      height: 75px;
+      display: block;
+      vertical-align: middle;
+      text-align: center;
+      position: absolute;
+      right: 0px;
+      top:0px;
+      img{
+        display: inline-block;
+        height: 100%;
+        margin:0 auto;
+        max-width: 100%;
+      }
+    }
+  }
+}
+.productAddForm{
+  padding:5px 0px 5px 20px;
+  position: relative;
+  fieldset{
+    label{
+      font-size: 0.6em;
+    }
+    input{
+      height: 30px;
+      line-height: 30px;
+    }
+    &:last-child{
+      margin-bottom: 0px;
+    }
+  }
+  &:before{
+    content:"";
+    display: block;
+    height: 100%;
+    width: 2px;
+    z-index: 1;
+    position: absolute;
+    left:0px;
+    margin-left:-0.5px;
+    top:0px;
+    background:#5B587E;
+  }
+  &:after{
+    content:"+";
+    display: block;
+    height: 20px;
+    width: 20px;
+    z-index: 2;
+    position: absolute;
+    left:0px;
+    margin-left:-10px;
+    margin-top:-10px;
+    top:50%;
+    border-radius:100%;
+    background: linear-gradient(to left,  #60dbcc 0%, #37a1ca 100%);
+    box-shadow: 1px 1px 2px rgba(20,20,20,0.8);
+    text-align: center;
+    line-height: 20px;
+    @include lato(700, 13px, #4c4967);
+  }
+}

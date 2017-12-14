@@ -1,0 +1,102 @@
+.month-block{
+  margin:0 auto;
+  padding:10px 0px 10px 70px;
+  position: relative;
+  max-width: 800px;
+
+  .point{
+    position: absolute;
+    left:0px;
+    width: 60px;
+    height: 100%;
+    top:0px;
+    &:after{
+      content:"";
+      display: block;
+      height: 100%;
+      width: 2px;
+      z-index: 1;
+      position: absolute;
+      left:50%;
+      margin-left:-0.5px;
+      top:0px;
+      background:#4c4967;
+    }
+    &:before{
+      content:"";
+      display: block;
+      height: 20px;
+      width: 20px;
+      z-index: 2;
+      position: absolute;
+      left:50%;
+      margin-left:-10px;
+      margin-top:-10px;
+      top:50%;
+      border-radius:100%;
+      background: linear-gradient(to left,  #60dbcc 0%, #37a1ca 100%);
+      box-shadow: 1px 1px 2px rgba(20,20,20,0.8);
+    }
+  }
+
+  .contents{
+    display: table;
+    width: 100%;
+    background: #4c4967;
+    border-radius:5px;
+    box-shadow: 1px 1px 2px rgba(20,20,20,0.2);
+    table-layout: fixed;
+    overflow: hidden;
+
+    .identification, .tools {
+      display: table-cell;
+      vertical-align: middle;
+      padding:15px 10px;
+      font-family: 'Lato';
+      text-decoration: none;
+    }
+
+    .identification{
+      transition:all 200ms ease-out;
+      background:transparent;
+      border-right:1px solid #4c4967;
+      box-shadow: inset -2px 0px 5px rgba(0,0,0,0.0);
+      &:hover{
+        background: #555377;
+        border-right:1px solid #484664;
+        box-shadow: inset -2px 0px 5px rgba(0,0,0,0.1);
+      }
+      .month{
+        font-size: 22px;
+        font-weight: 300;
+        color:#9f9cd0;
+        margin-bottom: 8px;
+        strong{
+          font-size: 0.6em;
+        }
+      }
+
+      p{
+        font-size: 10px;
+        color:#CED1D1;
+        font-weight: 400;
+        strong{
+          font-weight: 700;
+          display: inline-block;
+          padding-left: 4px;
+          font-size: 12px;
+          position: relative;
+          top:1px;
+          &.date{
+            padding-right: 3px;
+          }
+        }
+      }
+    }
+
+    .tools{
+      text-align: right;
+      width: 130px;
+    }
+  }
+}
